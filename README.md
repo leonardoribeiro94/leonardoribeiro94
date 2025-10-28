@@ -33,17 +33,21 @@ Currently leading high-performance engineering teams and building robust, effici
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardoribeiro94&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://streak-stats.demolab.com?user=leonardoribeiro94&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoribeiro94&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoribeiro94&theme=dracula&layout=compact&custom_title=Top%20Languages&langs_count=9" 
   />
 </p>
 
 <br clear="both"/>
 
+ 
 
+
+
+###
