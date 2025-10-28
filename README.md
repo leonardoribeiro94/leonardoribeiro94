@@ -33,7 +33,7 @@ Currently leading high-performance engineering teams and building robust, effici
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com?user=leonardoribeiro94&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" 
+    src="https://github-readme-stats.vercel.app/api?username=leonardoribeiro94&show_icons=true&theme=dracula&include_all_commits=true&locale=en" height="160" alt="streak graph" 
   />
 
   <img 
